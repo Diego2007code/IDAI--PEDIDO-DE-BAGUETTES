@@ -1,5 +1,3 @@
-<script>
-
 function calcularTotal(){
 
    
@@ -39,5 +37,3 @@ function calcularTotal(){
         "Total: $" + total.toFixed(2);
 
 }
-
-</script>
